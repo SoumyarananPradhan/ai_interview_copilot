@@ -1,4 +1,5 @@
 # 🚀 AI Interview Copilot
+<img width="1893" height="828" alt="Screenshot 2026-03-09 092756" src="https://github.com/user-attachments/assets/ff063e0c-8724-4178-b8c2-1eaee0325b64" />
 
 An intelligent, full-stack web application designed to simulate technical interviews. Powered by Google's Gemini AI, this platform dynamically generates role-specific interview questions, evaluates candidate answers, and provides rigorous, syntax-highlighted feedback in real-time.
 
